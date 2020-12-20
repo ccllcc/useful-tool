@@ -8,7 +8,7 @@ def change_bol(x):
         return True
 
 
-# Outlier detection
+# Outlier calculation
 
 def outlier_cal(df,column):
     """This function takes dataframe and its column name as input, 
